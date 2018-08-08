@@ -73,7 +73,7 @@ const char     MINER_CONFIG_FILE_NAME[]                      = "miner_conf.json"
 } // parameters
 
 
-const char     CRYPTONOTE_NAME[]                             = "LIRA IUS";
+const char     CRYPTONOTE_NAME[]                             = "LIRA-IUSTITIA";
 const char     GENESIS_COINBASE_TX_HEX[]                     = "";
 
 const uint8_t  CURRENT_TRANSACTION_VERSION                   =  1;
